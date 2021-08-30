@@ -1,0 +1,18 @@
+{
+  "name": "leitorplanilhaslondres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maycon Menezes",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.23.0",
+    "node-xlsx": "^0.17.1",
+    "read-excel-file": "^5.2.9",
+    "uuid": "^8.3.2"
+  }
+}
